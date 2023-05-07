@@ -237,7 +237,7 @@
                                 <requireJavaVersion>
                                     <version>1.8.0</version>
                                 </requireJavaVersion>
-                                <dependencyConvergence />
+                                <dependencyConvergence/>
                             </rules>
                         </configuration>
                         <goals>
@@ -1095,7 +1095,7 @@
             <name>Adam Afeltowicz</name>
         </contributor>
         <contributor>
-            <name>Madis P&#x00e4;rn</name>
+            <name>Madis Pärn</name>
         </contributor>
         <contributor>
             <name>Michael Rimov</name>
@@ -1169,7 +1169,7 @@
         <dependency>
             <groupId>xalan</groupId>
             <artifactId>xalan</artifactId>
-            <version>2.7.2</version>
+            <version>2.7.3</version>
             <exclusions>
                 <exclusion>
                     <groupId>xerces</groupId>
